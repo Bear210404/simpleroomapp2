@@ -3,7 +3,7 @@ export default function HomePage() {
     <div className="text-center mt-20">
       <h1 className="text-3xl font-bold mb-4">Welcome to Room Reservation App</h1>
       <p className="text-lg">
-        Hell0 Silakan masuk sebagai Admin atau Client untuk melanjutkan.
+        Hell0  <Hello></Hello> Silakan masuk sebagai Admin atau Client untuk melanjutkan.
       </p>
     </div>
   );
